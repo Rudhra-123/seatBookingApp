@@ -79,7 +79,7 @@ The frontend of the Seat Booking System is built using React.js, a popular JavaS
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/hemantjayas/seatBookingApp
+  git clone https://github.com/Rudhra-123/seatBookingApp.git
 ```
 2. Navigate to the frontend directory:
 
@@ -106,7 +106,7 @@ The backend of the Seat Booking System is built using Node.js and Express.js, pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hemantjayas/seatBookingApp
+git clone https://github.com/Rudhra-123/seatBookingApp.git
 ```
 2. Navigate to the backend directory:
 ```bash
@@ -123,7 +123,7 @@ npm install
 
 ```makefile
 PORT=<backend-port>
-MONGODB_URI=<mongodb-connection-string>
+
 ```
 
 Replace <backend-port> with the desired port number for the backend server.
