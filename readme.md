@@ -12,7 +12,7 @@ The Seat Booking System is a web application that allows users to book seats in 
 ## Technologies Used
 - **Frontend:** React.js
 - **Backend:**   Node.js with Express.js
-- **Database:** MongoDB
+- **Database:** Posrgres
 - **Deployment:**  Frontend- Netlify && Backend - Render
 - **Version Control:** GIT
 
